@@ -1,5 +1,5 @@
-# firstrepo
+# my first repository
 
-## Editing the file
+## Bicycle case study 
 
 Its a markdown file in this repository.
